@@ -34,7 +34,7 @@ $(function() {
                     $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
                     $('#success > .alert-success')
-                        .append("<strong>You've registered! We'll let youe know when SoleDrop launches in your area</strong>");
+                        .append("<strong>You've registered! We'll let you know when SoleDrop launches in your area</strong>");
                     $('#success > .alert-success')
                         .append('</div>');
 
